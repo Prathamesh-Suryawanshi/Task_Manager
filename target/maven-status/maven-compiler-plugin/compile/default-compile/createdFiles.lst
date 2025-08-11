@@ -1,0 +1,5 @@
+com\prathameshToDoProject\taskmanager\repository\TaskRepository.class
+com\prathameshToDoProject\taskmanager\model\Task.class
+com\prathameshToDoProject\taskmanager\Controller\TaskController.class
+com\prathameshToDoProject\taskmanager\service\TaskService.class
+com\prathameshToDoProject\taskmanager\TaskmanagerApplication.class
